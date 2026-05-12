@@ -1,2 +1,0 @@
-﻿# Latihan_GIT
-bahhhhhh
