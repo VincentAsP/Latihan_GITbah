@@ -1,3 +1,0 @@
-﻿# Latihan_GIT
-
-## coba-coba punya deron
